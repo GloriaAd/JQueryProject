@@ -1,0 +1,21 @@
+{
+  "items": [{
+    "id": 1000,
+    "name": "Maxy",
+    "description": "A teddy bear to show love to your lover on any occasion. This is a perfect gift for this upcoming Christmas.",
+    "price": "49",
+    "moreInfo": "Discount is given for more than 2 purchases"
+    },{
+      "id": 1001,
+      "name": "Dessy",
+      "description": "A teddy bear to show love to your lover on any occasion. This is a perfect gift for this upcoming Christmas.",
+      "price": "49",
+      "moreInfo": "Discount is given for more than 2 purchases"
+    },{
+      "id": 1002,
+      "name": "Richie",
+      "description": "A teddy bear to show love to your lover on any occasion. This is a perfect gift for this upcoming Christmas.",
+      "price": "49",
+      "moreInfo": "Discount is given for more than 2 purchases"
+    }]
+}
